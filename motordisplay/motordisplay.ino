@@ -42,6 +42,10 @@ void setup()
 
 void loop()
 {
+  displayTest();
+}
+
+void displayTest() {
   int buf[478];
   int x, x2;
   int y, y2;
